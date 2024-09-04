@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Disypla:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    background-color: black;
+    
+   
+    
+}
+
+.name{
+    color: rgb(175, 165, 165);
+    font-size: 44px;
+font-family: 'playfair';
+   text-align: center;
+   letter-spacing: 6.5px;
+   line-height: 50px;
+font-weight: 100;
+box-sizing: inherit;
+}
+.color{
+    color: grey;
+    text-align: center;
+    font-family: "Open sans", sans-serif;
+    font-size: 14px;
+    letter-spacing: 5px;
+    line-height: 21px;
+    text-align: center;
+    margin-top: -25px;
+
+}
+.hihi{
+     border: 0;
+     height:.1px;
+     background-color: gray;
+     width: 100%;
+     margin-top: 50px;
+}
+.section{
+    color: white;
+    font-family: "Open sans ",sans-serif;
+    text-align: center;
+    display:flex ;
+    margin-left:285px;
+    font-weight: 100;
+    font-size: 100%;
+    
+    
+}
+.section-1{
+    margin: 10px;
+}
+.section-2{
+    margin: 10px;
+}
+.section-3{
+    margin: 10px;
+}
+.section-4{
+    margin: 10px;
+}
+.section-5{
+    margin: 10px;
+}
+.section-6{
+    margin: 10px;
+}
+.img{
+  background-size: cover;
+  background-image: url();
+}
+.sosser-cup{
+    width: 100%;
+    height: 100%;
+  
+}
+.elemenet-container{
+    color: grey;
+    width: 98vw;
+    height: 200px;
+    text-align: center;
+    font-family: "Roboto" , sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: -.6px;
+    margin-top: 150px;
+   
+}
+.element-holder{
+    color: grey;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Roboto" , sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: -100px;
+
+}
+.container-box{
+   height: auto;
+   max-width: 100%;
+   width: 800px;
+   margin-left: 210px;
+   margin-top: 50px;
+}
+.image-container{
+    margin-left: 200px;
+}
+.image-container{
+    justify-content: center;
+    align-items: center;
+    margin-left: 410px;
+    margin-top: 200px;
+  
+   
+    
+}
+.data-src-1{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+   
+    
+}
+.data-src-2{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+}
+.data-src-3{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+    
+   
+}
+.data-src-4{
+   border-radius: 50%;
+   width: 30px;
+   height: 30px;
+   margin-left: 100px;
+  
+   
+}
+.license{
+    color: grey;
+    margin-left: 410px;
+    margin-top: 100px;
+}
+.fa-solid fa-chevron-down{
+    color: white;
+}
+    
+   
+    
+     
+     
+    
